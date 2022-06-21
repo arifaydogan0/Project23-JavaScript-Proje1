@@ -14,4 +14,4 @@ function tarihSaat() {
 }
 
 tarihSaat();
-setInterval(tarihSaat, 111); 
+setInterval(tarihSaat, 111);
