@@ -6,7 +6,6 @@ while (name == '' || name == null) {
 document.querySelector('#myName').innerHTML = name;
 
 let gunler = ["Pazar", "Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi"];
-let renkler = ["black", "gray", "white"];
 
 function tarihSaat() {
     var d = new Date();
